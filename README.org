@@ -1,6 +1,11 @@
 
 * Versioned arrays
 
+/Note: I am deprecating this library in preference to Versioned-Objects which
+can do everything this can and more.  I'll keep this here for a while until I
+have something that really puts it to shame with Versioned-Objects.  That is
+all./
+
 Versioned-Arrays is a library allowing you to use arrays in a relatively cheap
 manner.  See [[http://directed-procrastination.blogspot.com/2011/06/versioned-arrays.html][my blog post]] on it for more in depth treatment of the ideas behind
 it.
